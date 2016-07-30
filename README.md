@@ -1,10 +1,17 @@
 ### Maestro
-Web app (php) para gerar conteúdo para base de dados MySql
+Web-App (php) que gera e insere dados em uma base de dados (MySql).
 
-##Objectivos Actuais
-
-- Projectar as funções, classes, reunir idéias, decidir o futuro.
+##Objectivos actuais
+- Projectar as funções, interface (design), classes, analisar idéias.
 - Decidir que frameworks seram usados.
 - Criar a estrutura do projecto (pastas).
 
-Criado por Lelo Lenda [Facebook: www.bit.ly/2anZfOa]
+##Fluxo de trabalho (Workflow)
+Crie um branch do "develop", faça as modicações e depois faça um pull request.
+
+[Develop] se intrega ao [Master], nunca o inverso!
+
+
+Criado por Lelo Lenda AKA Legend Beazt (FB: www.bit.ly/2anZfOa)
+
+Tudo começou em 30-07-2016
