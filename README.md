@@ -1,5 +1,5 @@
 #Maestro :books: :electric_plug:
-Web-App (php) que gera e insere dados em uma base de dados (MySql).
+Web-App (php) que gera aleatoriamente dados de um tipo definido pelo USER e insere-los numa BD (MySql).
 
 ###Objectivos actuais :rocket:
 - Projectar as funcionalidades, interface (design), classes.
