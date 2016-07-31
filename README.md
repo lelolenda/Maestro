@@ -6,7 +6,7 @@ Web-App (php) que gera aleatoriamente dados de um tipo definido pelo USER e inse
 - Decidir que frameworks seram usados.
 - Criar a estrutura do projecto (pastas).
 
-###Fluxo de trabalho (Workflow) :apple:
+###Fluxo de trabalho (Workflow)
 Crie um branch do "develop", faça as modicações e depois faça um pull request.
 
 #####Nomeia-los da seguinte forma:
@@ -18,4 +18,4 @@ O branch [Develop] actualiza o [Master], nunca o inverso!
 
 Criado por Lelo Lenda (aka Legend Beazt) (FB: www.bit.ly/2anZfOa)
 
-Tudo começou em 30-07-2016 :heart:
+Tudo começou em 30-07-2016
